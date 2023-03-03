@@ -1,0 +1,35 @@
+body{
+   background-color: aqua; 
+   width: 900px;
+   height: 1200px;
+   margin-right: auto;
+   left:auto;
+}
+header{
+background-color: azure;
+width: 850px;
+height: 200px;
+}
+nav{
+background-color: black;
+width: 850px;
+height: 150px;
+}
+section{
+background-color: blue;
+width: 400px;
+height: 500px;
+float:left;
+}
+aside{
+background-color: brown;
+width: 400px;
+height: 500px;
+float:right;
+}
+footer{
+background-color: chartreuse;
+width: 850px;
+height: 300px;
+display: inline-block;
+}
